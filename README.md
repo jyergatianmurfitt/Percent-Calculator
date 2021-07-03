@@ -7,7 +7,6 @@ The purpose of building this app was to create a simple percentage calculator.
 ## Tech/framework used
 <b>Built with</b>
 - [HTML]
-- [SASS]
 - [JS]
 
 ## Installation
